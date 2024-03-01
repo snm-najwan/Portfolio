@@ -8,8 +8,11 @@ Statistics - Mathematics - Computer Science
 Second Class Lower Division
 
 ### Work Experience
-Data Analyst @ FairFirst Insurance Limited
+Data Analyst @ **FairFirst Insurance Limited**      
 
+2023 Feb - Present
+
+As a data analyst, I played a pivotal role in collecting, cleaning, and analyzing data to drive strategic decision-making and business growth. I utilized advanced statistical methods and data visualization techniques to uncover insights and trends, presenting findings through comprehensive reports and interactive dashboards. Collaborating closely with cross-functional teams, I translated complex data into actionable recommendations that supported key initiatives and optimized operational efficiency.
 
 
 ### Projects (Analysis)
@@ -19,4 +22,5 @@ Data Analyst @ FairFirst Insurance Limited
 
 
 ### Projects (Visualizations)
-1 . 
+1 . Billionaires Dataset Visualization
+
