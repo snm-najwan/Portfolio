@@ -10,5 +10,13 @@ Second Class Lower Division
 ### Work Experience
 Data Analyst @ FairFirst Insurance Limited
 
-### Projects
-Body Fat Prediction using Machine Learning Models
+
+
+### Projects (Analysis)
+1 . Body Fat Prediction using Machine Learning Models
+
+2 . Statistical Analysis in the context of Business Growth
+
+
+### Projects (Visualizations)
+1 . 
