@@ -1,7 +1,11 @@
 # Data Analyst
 
 ### Education
-Statistics, Computer Science
+Bachelor's Degree in Statistics and Operations Research
+
+Statistics - Mathematics - Computer Science
+
+Second Class Lower Division
 
 ### Work Experience
 Data Analyst @ FairFirst Insurance Limited
