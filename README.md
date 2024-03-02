@@ -1,6 +1,6 @@
 # Data Analyst
 
-<!--<img src="https://your-image-url.type" width="100" height="100"> -->
+<img src="https://github.com/snm-najwan/Portfolio/blob/main/_DSC0049.jpg" width="200" height="300">
 
 ### Education
 Bachelor's Degree in Statistics and Operations Research
@@ -27,8 +27,7 @@ This is my University final year project. I have used three Machine Learning mod
 
 2 . [Statistical Analysis in the context of Business Growth](https://github.com/snm-najwan/Uni-Projects/blob/main/Statistical%20Analysis%20in%20the%20context%20of%20Business%20Growth.pdf)
 
-In this project we did analyze the data of an online retail company which operates from United Kingdom, which has been an industry with over 12 years in the online retail business. During the past years the company has experienced a gradual increase in the attrition of existing customers which has affected the organizational performance. To identify what factors to focus in retaining the customers by understanding the gaps from organization point of view. For this particular analysis we used **Data mining** to identify the patterns and relationship between the products also Association rule mining was done under the apriori principle with support of 2% and confidence of 70% to find out the products which are bought 
-together by customers most frequently and to group the products which are sharing similarity in selling based on region, country like wise we have used **cluster analysis** especially K - means clustering. We also approched this dataset with **Time Series Analysis** to find the trends and periods in which products sells better or when they are at the lowest and so on.
+In this project we did analyze the data of an online retail company which operates from United Kingdom, which has been an industry with over 12 years in the online retail business. During the past years the company has experienced a gradual increase in the attrition of existing customers which has affected the organizational performance. To identify what factors to focus in retaining the customers by understanding the gaps from organization point of view. For this particular analysis we used **Data mining** to identify the patterns and relationship between the products also Association rule mining was done under the apriori principle with support of 2% and confidence of 70% to find out the products which are bought together by customers most frequently and to group the products which are sharing similarity in selling based on region, country like wise we have used **cluster analysis** especially K - means clustering. We also approched this dataset with **Time Series Analysis** to find the trends and periods in which products sells better or when they are at the lowest and so on.
 
 ***
 ### Projects (Visualizations)
