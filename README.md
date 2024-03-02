@@ -1,6 +1,6 @@
 # Data Analyst
 
-<img src="https://github.com/snm-najwan/Portfolio/blob/main/_DSC0049.jpg" width="200" height="300">
+<img src="https://github.com/snm-najwan/Portfolio/blob/main/download.png" width="172" height="165">
 
 ### Education
 Bachelor's Degree in Statistics and Operations Research
