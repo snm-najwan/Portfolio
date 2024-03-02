@@ -23,8 +23,10 @@ As a result of the analysis I got Neural Network as the best model between all t
 
 2 . Statistical Analysis in the context of Business Growth
 
-In this project we did analyze the data of an online retail company which operates from United Kingdom. To 
+In this project we did analyze the data of an online retail company which operates from United Kingdom, which has been an industry with over 12 years in the online retail business. During the past years the company has experienced a gradual increase in the attrition of existing customers which has affected the organizational performance. To identify what factors to focus in retaining the customers by understanding the gaps from organization point of view. For this particular analysis we used data mining to identify the patterns and relationship between the products also Association rule mining was done under the apriori principle with support of 2% and confidence of 70% to find out the products which are bought 
+together by customers most frequently and to group the products which are sharing similarity we have used cluster analysis especially K - means clustering. We also approched this dataset with Time Series Analysis to find the trends and periods in which products sells better or when they are at the lowest.
 
 ### Projects (Visualizations)
+
 1 . Billionaires Dataset Visualization
 
