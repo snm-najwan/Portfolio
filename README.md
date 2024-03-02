@@ -36,5 +36,7 @@ In this project we did analyze the data of an online retail company which operat
 ***
 ### Projects (Visualizations)
 
-1 . Billionaires Dataset Visualization
+1 . [Billionaires Dataset Visualization](https://github.com/snm-najwan/Visualizations/blob/main/Billionairs.ipynb)
+
+This is a dataset from Kaggle website which portray top richest people in the world. I have used Python Matplotlib package to visualize the data. Here, I have visualized by gender, country and their industry.
 
