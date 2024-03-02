@@ -16,7 +16,7 @@ As a data analyst, I played a pivotal role in collecting, cleaning, and analyzin
 
 
 ### Projects (Analysis)
-1 . Body Fat Prediction using Machine Learning Models
+1 . [Body Fat Prediction Using Machine Learning Models](https://github.com/snm-najwan/Body-Fat-Prediction-using-Machine-Learning-Models)
 
 This is my University final year project. I have used three Machine Learning models to compare which model predict the better for Body Fat which is calculated from Antroprometric measures that involves no digital measures and use easier and non expensive. For this project I used Neural Network, Multiple Linear Regression, and Partial least Squares Regression.
 As a result of the analysis I got Neural Network as the best model between all three models with 94% accuracy.
