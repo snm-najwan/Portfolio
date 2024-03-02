@@ -1,11 +1,15 @@
 # Data Analyst
 
+<!--<img src="https://your-image-url.type" width="100" height="100"> -->
+
 ### Education
 Bachelor's Degree in Statistics and Operations Research
 
 Statistics - Mathematics - Computer Science
 
 Second Class Lower Division
+
+***
 
 ### Work Experience
 Data Analyst @ **FairFirst Insurance Limited**      
