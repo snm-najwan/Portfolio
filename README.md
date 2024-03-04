@@ -40,3 +40,7 @@ In this project we did analyze the data of an online retail company which operat
 
 This is a dataset from Kaggle website which portray top richest people in the world. I have used Python Matplotlib package to visualize the data. Here, I have visualized by gender, country and their industry.
 
+2 . [European Sales Record](https://public.tableau.com/app/profile/seyyad.najwan/viz/FirstTableauViz_17094577677880/Dashboard1#1)
+
+Here I have published my Tableau visualization which shows the analysis of european sales record. In which to analyze and visualize the products sold and consumed from 2010 to 2017 in european countries.
+
