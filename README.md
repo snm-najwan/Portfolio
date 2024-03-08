@@ -36,7 +36,9 @@ In this project we did analyze the data of an online retail company which operat
 
 3 . [VBA User Interface App for Time Series Analysis](https://github.com/snm-najwan/Projects/blob/main/User%20Interface%20App.xlsm)
 
-This is my VBA project. In which I created a VBA Userform to perform (3 ,6 12) point moving averages, Exponential Smoothing, Holt's Trend and Winter's Seasonal method on time series data to predict and visualize trends and seasonality.
+<img src="UserInterface.png">
+
+This is my Excel VBA project. In which I used VBA Userform to create User Interface to perform moving averages (3 ,6 12 point moving averages), Exponential Smoothing, Holt's Trend and Winter's Seasonal method on timely data to predict and visualize trends and seasonality.
 
 ***
 ### Projects (Visualizations)
