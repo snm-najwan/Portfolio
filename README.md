@@ -24,7 +24,7 @@ As a data analyst, I played a pivotal role in collecting, cleaning, and analyzin
 
 ***
 
-### Projects (Analysis)
+### Projects
 1 . [Body Fat Prediction Using Machine Learning Models](https://github.com/snm-najwan/Uni-Projects/blob/main/Body%20Fat%20Prediction%20using%20ML%20models.pdf)
 
 This is my University final year project. I have used three Machine Learning models to compare which model predict the better for Body Fat which is calculated from Antroprometric measures that involves no digital measures and use easier and non expensive methods to take measurements. For this project I used **Neural Network**, **Multiple Linear Regression**, and **Partial least Squares Regression** and used **R Statistical Software** for this project. As a result of the analysis I got Neural Network as the best model between all three models with 94% accuracy.
@@ -36,9 +36,9 @@ In this project we did analyze the data of an online retail company which operat
 ***
 ### Projects (Visualizations)
 
-1 . [Billionaires Dataset Visualization](https://github.com/snm-najwan/Visualizations/blob/main/Billionairs.ipynb)
+1 . [Billionaires Analysis](https://github.com/snm-najwan/Visualizations/blob/main/Billionairs.ipynb)
 
-This is a dataset from Kaggle website which portray top richest people in the world. I have used Python Matplotlib package to visualize the data. Here, I have visualized by gender, country and their industry.
+I have used a dataset from Kaggle website to portray top richest people in the world. In this analysis I have used Python Matplotlib package to visualize the data and to get the clear idea which sectors, gender, country, and industry are driven the top richest people in the world.
 
 2 . [European Sales Record](https://public.tableau.com/app/profile/seyyad.najwan/viz/FirstTableauViz_17094577677880/Dashboard1#1)
 
