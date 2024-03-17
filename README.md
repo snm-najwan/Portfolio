@@ -53,4 +53,6 @@ Here I have published my Tableau visualization which shows the analysis of europ
 
 3 . [Credit Card Transactions in India](https://github.com/snm-najwan/Visualizations/blob/main/Credit%20card%20Transactions%20(India).pbix)
 
+<img src="dashboard.png">
+
 I created an interactive Power BI dashboard from Credit card Transaction details dataset which primarily showing transactions happened in India.
