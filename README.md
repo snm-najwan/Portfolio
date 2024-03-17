@@ -51,3 +51,6 @@ I have used a dataset from Kaggle website to portray top richest people in the w
 
 Here I have published my Tableau visualization which shows the analysis of european sales record. In which to analyze and visualize the products sold and consumed from 2010 to 2017 in european countries.
 
+3 . [Credit Card Transactions in India](https://github.com/snm-najwan/Visualizations/blob/main/Credit%20card%20Transactions%20(India).pbix)
+
+I created an interactive Power BI dashboard from Credit card Transaction details dataset which primarily showing transactions happened in India.
