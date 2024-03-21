@@ -40,6 +40,10 @@ In this project we did analyze the data of an online retail company which operat
 
 This is my Excel VBA project. In which I used VBA Userform to create User Interface to perform moving averages (3 ,6 12 point moving averages), Exponential Smoothing, Holt's Trend and Winter's Seasonal method on timely data to predict and visualize trends and seasonality.
 
+4 . [Machine Learning project Housing Price Prediction](https://github.com/snm-najwan/Visualizations/blob/main/housingPricesPrediction.ipynb)
+
+This is a machine learning project where i try to improve the model performance by applying feature scaling (Polynomial Features, Removing Outliers) for housing prices prediction dataset. And able to bring the model performance upto 75.2.
+
 ***
 ### Projects (Visualizations)
 
