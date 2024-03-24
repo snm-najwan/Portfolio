@@ -44,6 +44,10 @@ This is my Excel VBA project. In which I used VBA Userform to create User Interf
 
 This is a machine learning project where i try to improve the model performance by applying feature scaling (Polynomial Features, Removing Outliers) for housing prices prediction dataset. And able to bring the model performance upto 75.2.
 
+5 . [R Shiny web app for Data Visualization](web_visualization.R)
+
+I have created a R Shiny Web Visualization for supermarket dataset. It provides interfaces to change the categorical and numerical variable as per the graph type. The relevant dataset for this application to work can be able get from [here]()
+
 ***
 ### Projects (Visualizations)
 
