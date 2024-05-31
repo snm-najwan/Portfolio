@@ -48,6 +48,10 @@ This is a machine learning project where i try to improve the model performance 
 
 I have created a R Shiny Web Visualization for supermarket dataset. It provides interfaces to change the categorical and numerical variable as per the graph type. The relevant dataset for this application to work can be able get from [here](https://github.com/snm-najwan/Projects/blob/main/supermarket_sales%20-%20Sheet1.csv)
 
+6 . [Cluster Analysis to identify country regions with same levels](https://github.com/snm-najwan/Portfolio/blob/main/Cluster_Analysis.ipynb)
+
+This is kaggle dataset. This dataset contains countries and their gdpp, income, life expectancy, child mortality, and import, exports. I have used Kmeans clustering method to identify the countries which are in very low level in aove mentioned terms.
+
 ***
 ### Projects (Visualizations)
 
