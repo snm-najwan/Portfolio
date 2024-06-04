@@ -52,6 +52,10 @@ I have created a R Shiny Web Visualization for supermarket dataset. It provides 
 
 This is kaggle dataset. This dataset contains countries and their gdpp, income, life expectancy, child mortality, and import, exports. I have used Kmeans clustering method to identify the countries which are in very low level in aove mentioned terms.
 
+7 . [Binary Image Classification](https://github.com/snm-najwan/Portfolio/blob/main/binary%20classification.ipynb)
+
+In this project I have used images of digits zero, and one to train the model with logistic regression. The dataset is 784 pixels but reduced it to 400 pixel to reduce model complexity.
+
 ***
 ### Projects (Visualizations)
 
