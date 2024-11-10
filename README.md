@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Profile Info
-I am Najwan. I am a dedicated and data science enthusiast with a profound interest in machine learning and data analytics. With a strong foundation in mathematics, statistics, and programming, they are passionate about leveraging data-driven insights to tackle complex challenges and drive impactful decision-making processes. Eager to explore the vast realms of artificial intelligence, they continually seek to expand expertise in cutting-edge techniques and methodologies within the field of machine learning. With a keen eye for detail and a natural curiosity for uncovering patterns within data, they are committed to contributing to the advancement of data science and its applications across various industries.
+I am Najwan. I am a dedicated and data science enthusiast with a profound interest in machine learning and data analytics. With a strong foundation in mathematics, statistics, and programming, they are passionate about leveraging data-driven insights to tackle complex challenges and drive impactful decision-making processes. As an aspiring Data Scientist Eager to explore the vast realms of artificial intelligence, they continually seek to expand expertise in cutting-edge techniques and methodologies within the field of machine learning. With a keen eye for detail and a natural curiosity for uncovering patterns within data, they are committed to contributing to the advancement of data science and its applications across various industries.
 
 ### Education
 **Bachelor's Degree in Statistics and Operations Research**
@@ -9,7 +9,7 @@ I am Najwan. I am a dedicated and data science enthusiast with a profound intere
 * Mathematics
 * Computer Science
 
-**Second Class Lower Division**
+**Second Class Honours**
 
 ***
 
