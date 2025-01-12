@@ -56,6 +56,10 @@ This is kaggle dataset. This dataset contains countries and their gdpp, income, 
 
 In this project I have used images of digits zero, and one to train the model with logistic regression. The dataset is 784 pixels but reduced it to 400 pixel to reduce model complexity.
 
+8 . [House Price Prediction App](https://snm-najwan-ml-projects-housing-price-streamlit-dtt9vn.streamlit.app/)
+
+This is the Housing price prediction app to predict the market price of the Houses in a certain city with including all the necessary requirments like net squared meter, distance from nearest metro, distance from nearest city centre, number of bedrooms, age of the house, and floor number from ground.
+
 ***
 ### Projects (Visualizations)
 
