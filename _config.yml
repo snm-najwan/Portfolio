@@ -9,4 +9,8 @@ header_pages:
   - skills.md
   - about.md
   - contact.md
+  
+assets:
+  css:
+    - /assets/css/custom.css
 
