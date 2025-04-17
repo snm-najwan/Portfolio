@@ -27,11 +27,6 @@ I am always eager to work on real-world data to drive actionable insights and op
     <p>Take a look at my skillset in data analysis, visualization, programming, and more.</p>
     <a href="skills.md" class="btn">View Skills</a>
   </div>
-  <div class="card">
-    <h3>Contact</h3>
-    <p>Get in touch with me to discuss opportunities or projects you'd like to collaborate on.</p>
-    <a href="contact.md" class="btn">Contact Me</a>
-  </div>
 </div>
 
 ---
