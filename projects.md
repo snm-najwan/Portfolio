@@ -3,6 +3,32 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# My Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Machine Learning -->
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 300px;">
+  <h3>🤖 Machine Learning</h3>
+  <p>Models for prediction and classification.</p>
+  <a href="#machine-learning">View Projects →</a>
+</div>
+
+<!-- Data Visualization -->
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 300px;">
+  <h3>📊 Data Visualization</h3>
+  <p>Dashboards and interactive charts.</p>
+  <a href="#data-visualization">View Projects →</a>
+</div>
+
+<!-- Automation -->
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 300px;">
+  <h3>⚙️ Automation</h3>
+  <p>Excel & Power Query solutions.</p>
+  <a href="#automation">View Projects →</a>
+</div>
+
+</div>
 
 # My Projects
 
