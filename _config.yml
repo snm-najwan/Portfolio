@@ -2,3 +2,11 @@ title: Seyyad Najwan
 logo: Me.jpg
 show_downloads: False
 theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - projects.md
+  - skills.md
+  - about.md
+  - contact.md
+
