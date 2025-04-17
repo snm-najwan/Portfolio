@@ -30,6 +30,8 @@ I am always eager to work on real-world data to drive actionable insights and op
 </div>
 
 ---
+
+Feel free to explore more on the **[Contact](contact.md)** page.
 <div class="card-container">
    <div class="card">
     <h3>Contact</h3>
@@ -38,4 +40,4 @@ I am always eager to work on real-world data to drive actionable insights and op
   </div>
  </div>
 
-Feel free to explore more on the **[Contact](contact.md)** page.
+
