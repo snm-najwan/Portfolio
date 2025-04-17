@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 # Welcome to My Portfolio 👋
 
 Hi, I'm **Seyyad Najwan**, a passionate **data analyst** with a strong foundation in **statistics**, **operations research**, and **programming**.  
