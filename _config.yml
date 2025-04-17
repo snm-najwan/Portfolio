@@ -3,12 +3,12 @@ logo: Me.jpg
 show_downloads: False
 theme: jekyll-theme-minima
 
-# header_pages:
-#   - index.md
-#   - projects.md
-#   - skills.md
-#   - about.md
-#   - contact.md
+header_pages:
+  - index.md
+  - projects.md
+  - skills.md
+  - about.md
+  - contact.md
   
 assets:
   css:
