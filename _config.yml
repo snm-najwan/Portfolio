@@ -1,16 +1,16 @@
 title: Seyyad Najwan
 logo: Me.jpg
 show_downloads: False
-theme: minima
+theme: jekyll-theme-minima
 
-header_pages:
-  - index.md
-  - projects.md
-  - skills.md
-  - about.md
-  - contact.md
+# header_pages:
+#   - index.md
+#   - projects.md
+#   - skills.md
+#   - about.md
+#   - contact.md
   
-assets:
-  css:
-    - /assets/css/custom.css
+# assets:
+#   css:
+#     - /assets/css/custom.css
 
