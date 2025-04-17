@@ -35,5 +35,12 @@ I am always eager to work on real-world data to drive actionable insights and op
 </div>
 
 ---
+<div class="card-container">
+   <div class="card">
+    <h3>Contact</h3>
+    <p>Get in touch with me to discuss opportunities or projects you'd like to collaborate on.</p>
+    <a href="contact.md" class="btn">Contact Me</a>
+  </div>
+ </div>
 
 Feel free to explore more on the **[Contact](contact.md)** page.
