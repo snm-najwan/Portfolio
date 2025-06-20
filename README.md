@@ -77,7 +77,7 @@ Here I have published my Tableau visualization which shows the analysis of europ
 
 I created an interactive Power BI dashboard from Credit card Transaction details dataset which primarily showing transactions happened in India.
 
-4 . [Real Estate sales in USA States](https://github.com/snm-najwan/Projects/blob/main/upwork excel.xlsm)
+4 . [Real Estate sales in USA States](https://github.com/snm-najwan/Projects/blob/8c5c2c39d9d362f70b3deaa50df2bf72b2abc4f7/upwork%20excel.xlsm)
 [VBA_dashboard.png](Excel_Visualization.mp4)
 
 Here’s dynamic Excel dashboard I created using VBA and Excel Charts. The dashboard is based on a retail sales dataset containing information on orders, products, regions, and profit metrics. VBA was used to automate formatting and streamline updates, while Excel Charts helped visualize key trends across time, products, and regions. It's a practical example of how Excel can turn raw sales data into actionable business insights.
