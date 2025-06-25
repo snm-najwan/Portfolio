@@ -79,11 +79,8 @@ Here I have published my Tableau visualization which shows the analysis of europ
   View Power BI Project on GitHub
 </a>
 
-  
-</a>
 
-
-I created an interactive Power BI dashboard from Credit card Transaction details dataset which primarily showing transactions happened in India.
+Interactive Power BI dashboard from Credit card Transaction details dataset which primarily showing transactions happened in India.
 
 4 . [Real Estate sales in USA States](https://github.com/snm-najwan/Projects/blob/8c5c2c39d9d362f70b3deaa50df2bf72b2abc4f7/upwork%20excel.xlsm)
 
