@@ -75,7 +75,10 @@ Here I have published my Tableau visualization which shows the analysis of europ
 3 . [Credit Card Transactions in India](https://github.com/snm-najwan/Visualizations/blob/main/Credit%20card%20Transactions%20(India).pbix)
 
 <img src="dashboard.png">
-<a href="[View Power BI Project on GitHub](https://github.com/snm-najwan/Projects)" target="_blank">
+<a href="https://github.com/snm-najwan/Projects" target="_blank">
+  View Power BI Project on GitHub
+</a>
+
   
 </a>
 
